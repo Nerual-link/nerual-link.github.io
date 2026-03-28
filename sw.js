@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nerual-v3';
+const CACHE_NAME = 'nerual-v4';
 const ASSETS = [
   '/',
   '/index.html',
